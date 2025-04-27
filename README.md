@@ -4,6 +4,9 @@ This model focuses on the mental health of a person.
 The resulting chatbot can serve as an accessible first point of contact for individuals seeking mental health support, particularly in situations where professional help might be delayed or unavailable
 
 # If GitHub cannot render files please use the below links
+Training File:
 https://colab.research.google.com/drive/1_9H3IqZDVCq_t_sBfmXiE4Dv8t0RuKPj?usp=sharing
+
+Response File:
 https://colab.research.google.com/drive/18nU0v2rFpplb9mtsPyUmbkplDbBAe3d2?usp=sharing
  
